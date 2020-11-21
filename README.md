@@ -22,6 +22,8 @@ Extension to 3D using the spherical product:
 
 ![Alt Text](http://paulbourke.net/geometry/supershape/C_0011.jpg)
 
+I will also be using PeasyCam to create the 3D effect -- to move it... you can also use WEBGL on p5js but i preffered processing.
+
 Here are some 3D printed models of 3D Super Shapes... [here](https://www.syedrezaali.com/3d-supershapes/)...
 
 Check it out.. it's fun.
